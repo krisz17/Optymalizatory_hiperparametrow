@@ -1,0 +1,2 @@
+# Optymalizatory_hiperparametrow
+Zestawienie różnych metod optymalizacji hiperparametrów 
