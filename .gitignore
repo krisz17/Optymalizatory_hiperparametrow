@@ -3,3 +3,7 @@
 *.jpg
 *.zip
 OptHiper/
+x_test.csv
+x_train.csv
+y_train.csv
+foto/
